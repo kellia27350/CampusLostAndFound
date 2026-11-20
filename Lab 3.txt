@@ -1,0 +1,2 @@
+Lab 3:
+For your personal projects, your task is to implement it with winform (desktop application) with the database implemented. The user should be able to interact with the database via GUI. The implementation should follow the MVC architecture. You will need to upload the code on git/GitHub and share the link in the form that will be provided later
